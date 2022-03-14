@@ -1,3 +1,3 @@
 # Gomu-Gomu-TV
 
-Gomu-Gomu-TV VERSION: 2
+Gomu-Gomu-TV VERSION: 3
